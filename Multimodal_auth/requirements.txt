@@ -1,0 +1,16 @@
+flask
+redis
+numpy
+pandas
+openpyxl
+
+qdrant-client
+
+torch
+torchaudio
+transformers
+
+opencv-python
+mediapipe
+soundfile
+pyaudio
