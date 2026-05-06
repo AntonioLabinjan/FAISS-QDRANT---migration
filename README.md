@@ -7,5 +7,5 @@ Folder: ~/Desktop/qdrant-poc$
 3) terminal3: python3 vision_node_qdrant.py
 4) terminal4: python3 audio_node_qdrant.py
 
-
+TODO: Acquire more quality data (2 videos; audio + vision per class)
 Dataset: https://drive.google.com/drive/u/1/folders/1Wnd5qcSlFW95gzV6MOZd-nCDu1OlpBk1
