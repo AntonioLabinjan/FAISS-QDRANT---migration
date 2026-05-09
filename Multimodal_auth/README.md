@@ -1,1 +1,2 @@
-Sample of multimodal auth usin qdrant
+Server is not in compose currently...
+Redis & Qdrant are set up using docker compose
